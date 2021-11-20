@@ -1,4 +1,4 @@
-# SQL-ETL linked to GCP(Google Cloud Platform)
+# SQL-ETL linked to GCP(Google Cloud Platform) w/ Python
 
 1. Load a flat file
 2. Load CSV data from an API
