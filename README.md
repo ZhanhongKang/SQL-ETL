@@ -17,29 +17,29 @@ the first 100 rows of this dataset in CSV (comma-separated value) format and loa
 the following way, before loading them into database:
  Import only the following columns:
 
-○ Job #○ Doc #
-○ Borough
-○ House #
-○ Street Name
-○ Job Type
-○ Job Status
-○ Job Status Descrp
-○ Landmarked
-○ Adult Estab
-○ Latest Action Date
-○ Existing Occupancy
-○ Proposed Occupancy
-○ Owner Type
-○ Job Description
-○ Initial Cost
+        ○ Job #○ Doc #
+        ○ Borough
+        ○ House #
+        ○ Street Name
+        ○ Job Type
+        ○ Job Status
+        ○ Job Status Descrp
+        ○ Landmarked
+        ○ Adult Estab
+        ○ Latest Action Date
+        ○ Existing Occupancy
+        ○ Proposed Occupancy
+        ○ Owner Type
+        ○ Job Description
+        ○ Initial Cost
 
-● If we do not know if a record is “Landmarked”, remove it from the results. 
+        ● If we do not know if a record is “Landmarked”, remove it from the results. 
 
-● If we do not know if a record is an “Adult Establishment,” remove it from the results. 
+        ● If we do not know if a record is an “Adult Establishment,” remove it from the results. 
 
-● If we do not have a “Job Description”, remove it from the results.
+        ● If we do not have a “Job Description”, remove it from the results.
 
-● Transform the “Initial Cost” column to be presented in tens of thousands of dollars (instead of how it is
-currently recorded, in dollars).
+        ● Transform the “Initial Cost” column to be presented in tens of thousands of dollars (instead of how it is
+        currently recorded, in dollars).
 
 
